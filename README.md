@@ -3,6 +3,14 @@
 
 A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 
+## Personal choice of boxes :
+
+*[Gitlab](https://github.com/rgl/gitlab-vagrant) - Basic GitLab Vagrant Environment 
+*[Dokku](https://dokku.com/docs/getting-started/install/vagrant/) - A docker-powered PaaS that helps you build and manage the lifecycle of applications 
+
+*[]() - 
+*[]() - 
+*[]() - 
 
 ## Official resources
 
